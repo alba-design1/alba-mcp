@@ -42,3 +42,4 @@ The assistant calls `createWebsite`, and you receive a link to claim and edit yo
 - Feature overview: <https://alba.design/list>
 - Glama connector: <https://glama.ai/mcp/connectors/design.alba/albadesign>
 - llms.txt: <https://alba.design/llms.txt>
+- YouTube Shorts (privacy tips in 5 languages): <https://www.youtube.com/channel/UCVF3q4RP3XUgdV-hpzOsvgg/>
